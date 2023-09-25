@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+}
+.card{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Barlow', sans-serif;
+    background: linear-gradient(150deg, rgba(247,158,255,1) 16%, rgba(68,255,254,1) 72%);
+      text-fill-color: transparent;
+      background-clip: text;
+      color: transparent;
+}
+a{
+    text-decoration: none;
+}
+button{
+    color: #000000;
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+  border-color: #ccc;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 2px;
+}
+input{
+    color: #000;
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+  border-color: #ccc;
+  border-width: 1px;
+  border-style: solid;
+}
